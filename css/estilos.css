@@ -1,4 +1,5 @@
 body{
+    background-image: url('https://s.hdnux.com/photos/62/46/63/13266155/13/1200x0.jpg');
     color: rgb(246, 93, 51);
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
@@ -21,6 +22,7 @@ body{
 }
 
 #container{
+    background-color: white;
     width: 70%;
     padding: 1em;
     text-align: left;
